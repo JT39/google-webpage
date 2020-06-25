@@ -66,6 +66,7 @@ p, .numbers {
     border-radius: 25px;
     align-self: start;
     border: 1px solid rgba(0, 0, 0, 0.13);
+    margin-top: -7px
 }
 
 .icon {
